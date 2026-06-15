@@ -1,7 +1,7 @@
 # Task 1 - Data Cleaning & Preparation
 
 ## Kaggle Notebook
-🔗 https://www.kaggle.com/code/shalinim27/decodelab1
+🔗 https://www.kaggle.com/code/shalinim27/decodelabs-task1
 
 ## Description
 This project focuses on cleaning and preparing a raw dataset using Python (Pandas).
