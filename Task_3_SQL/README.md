@@ -1,4 +1,4 @@
-# SQL Data Analysis - DecodeLab Task 3
+# SQL Data Analysis - DecodeLabs Task 3
 
 ## Project Overview
 
@@ -131,6 +131,7 @@ Screenshots of:
 
 * Dataset Import
 * SELECT Query
+* LIMIT Query
 * WHERE Query
 * ORDER BY Query
 * COUNT Query
